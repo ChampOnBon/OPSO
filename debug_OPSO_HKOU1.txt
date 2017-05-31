@@ -1,0 +1,1 @@
+1.2.8,https://raw.githubusercontent.com/ChampOnBon/OPSO/master/debug_OPSO_HKOU1
